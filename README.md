@@ -3,6 +3,7 @@ Repository of Version Control Lab for CMPINF0010
 
 Group Members:
 Bridget Brinkman,
-Heegwon Yang
+Heegwon Yang,
+Steven Rodgers
 
 This program takes a name input and a color input and prints them both in a format of "<name>'s favorite color is <color>".
