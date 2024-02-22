@@ -5,4 +5,4 @@ Group Members:
 Bridget Brinkman,
 Heegwon Yang
 
-This program takes a name input and prints it in all capital letters or lowercase letters depending on the user's subsequent input.
+This program takes a name input and a color input and prints them both in a format of "<name>'s favorite color is <color>".
